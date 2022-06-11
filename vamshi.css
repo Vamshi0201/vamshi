@@ -1,0 +1,270 @@
+button
+{
+    padding: 12px 60px;
+    border: none;
+    background-color: transparent;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 14px;
+    color:blue;
+    border-right: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    animation: animate 2s linear infinite;
+}
+
+.follow
+{
+    font-size: 1em ;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    position: absolute ;
+    top: 76%;
+    left: 62%;
+    
+}
+
+.heading-1
+{
+    position: absolute;
+    margin: 0;
+    padding: 0%;
+    font-family: rockwell;
+    left: 50%;
+    top: 53%;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.heading-2
+{
+    position: absolute;
+    margin: 0;
+    padding: 0%;
+    font-family: rockwell;
+    left: 60%;
+    top: 60%;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.twitter
+{
+    position: absolute;
+    top: 81%;
+    left: 58%;
+}
+
+.instagram
+{
+    position: absolute;
+    top: 81%;
+    left: 62%;
+}
+
+.telegram
+{
+    position: absolute;
+    top: 81%;
+    left: 70%;
+}
+
+.whatsapp
+{
+    position: absolute;
+    top: 81%;
+    left: 66%;
+}
+
+.messenger
+{
+    position: absolute;
+    top: 88%;
+    left: 62%;
+}
+
+.facebook
+{
+    position: absolute;
+    top: 88%;
+    left: 66%;
+}
+
+.location
+{
+    position: absolute;
+    top: 73%;
+    left: 85%;
+}
+
+.fa-color
+{
+    color: cornflowerblue;
+}
+
+.fa-colorm
+{
+    color: dodgerblue;
+}
+
+.fa-colori
+{
+    color: palevioletred;
+}
+
+.fa-colorw
+{
+    color:lime;
+}
+
+.address
+{
+    position: absolute;
+    top: 81%;
+    left: 82%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.restaurant
+{
+    position: absolute;
+    top: 15%;
+    right: 0.5%;
+}
+
+.contact
+{
+    position: absolute;
+    left: 68%;
+    top: 5%;
+    font-family: 'poppins' ,sans-serif;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+    padding: 0 4px;
+}
+
+.contact:after
+{
+    content: "";
+    position: absolute;
+    background-color: blue;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+
+.contact:hover:after
+{
+    width: 100%;
+
+}
+
+.menu
+{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    font-family: 'poppins' ,sans-serif;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+    padding: 0 4px;
+}
+
+.menu:after
+{
+    content: "";
+    position: absolute;
+    background-color: blue;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+
+.menu:hover:after
+{
+    width: 100%;
+
+}
+
+.home
+{
+    position: absolute;
+    top: 5%;
+    left: 56%;
+    font-family: 'poppins' ,sans-serif;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+    padding: 0 4px;
+}
+
+.home:after
+{
+    content: "";
+    position: absolute;
+    background-color: blue;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+
+.home:hover:after
+{
+    width: 100%;
+
+}
+
+.about
+{
+    position: absolute;
+    top: 5%;
+    left: 62%;
+    font-family: 'poppins' ,sans-serif;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+    padding: 0 4px;
+}
+
+.about:after
+{
+    content: "";
+    position: absolute;
+    background-color:blue;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+
+.about:hover:after
+{
+    width: 100%;
+
+}
+
+.login
+{
+    position: absolute;
+    top: 4%;
+    right: 5%;
+}
+
+.user
+{
+    position: absolute;
+    top: 5%;
+    right: 1%;
+    
+}
+
